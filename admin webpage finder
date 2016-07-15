@@ -1,0 +1,15 @@
+cd Desktop
+ls
+python admin.py
+website for scan?* www.example.com
+enter site source code?*
+1.PHP
+2.ASP
+3.CFM
+4.JS
+5.CGI
+6.BRF
+
+1 
+
+admin page found!
